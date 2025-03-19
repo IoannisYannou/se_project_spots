@@ -12,7 +12,7 @@ An image sharing site.
 
 **Intro**
 
-This project is made so all the elements are displayed correctly on popular screen sizes.
+This project is an image sharing site, designed such that all elements are displayed correctly on popular screen sizes.
 
 **Tech Stack**
 
@@ -33,4 +33,4 @@ This project is made so all the elements are displayed correctly on popular scre
 
 This webpage is deployed to GitHub Pages
 
-- Deployment Link:
+- [Deployment Link](https://ioannisyannou.github.io/se_project_spots/)
