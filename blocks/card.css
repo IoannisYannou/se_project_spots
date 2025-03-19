@@ -17,7 +17,10 @@
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  color: #212121;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+  max-width: 353px;
 }
 
 .card__like-btn {
