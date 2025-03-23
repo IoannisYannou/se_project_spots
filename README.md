@@ -9,6 +9,7 @@ An image sharing site.
 - Figma
 - Images
 - Deployment
+- Video: Project Summary & Walkthrough
 
 **Intro**
 
@@ -27,10 +28,14 @@ This project is an image sharing site, designed such that all elements are displ
 **Images**
 
 ![alt text](Figma1.png)
-![alt text](image.png)
+![alt text](Figma2.png)
 
 **Deployment**
 
 This webpage is deployed to GitHub Pages
 
 - [Deployment Link](https://ioannisyannou.github.io/se_project_spots/)
+
+**Video: Project Summary & Walkthrough**
+
+- [Video](https://yannoutech-my.sharepoint.com/:v:/g/personal/ioannis_ioannisyannou_com/EcioGGIXHJBLhMqkOvjWqCIBF_WRcgdblw8ZoX9Xl8HgcA?e=cMCZ1P&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
