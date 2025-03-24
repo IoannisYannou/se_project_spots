@@ -20,6 +20,7 @@ This project is an image sharing site, designed such that all elements are displ
 - HTML
 - CSS
 - Responsive Design
+- JavaScript
 
 **Figma**
 
